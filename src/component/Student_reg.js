@@ -11,12 +11,12 @@ const Student_reg =() =>{
                 <input type="text" name="firstname" id="firstname" placeholder="First Name" />
             </div>
             <div class="field">
-                <label>First Name</label>
-                <input type="text" name="firstname" id="firstname" placeholder="First Name" />
+                <label>Middle Name</label>
+                <input type="text" name="middlename" id="middlename" placeholder="Middle Name" />
             </div>
             <div class="field">
-                <label>First Name</label>
-                <input type="text" name="firstname" id="firstname" placeholder="First Name" />
+                <label>Last Name</label>
+                <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
             </div>
         </form>
         </div>
