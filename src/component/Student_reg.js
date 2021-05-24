@@ -4,7 +4,7 @@ const Student_reg =() =>{
     return(
         <div className="ui container center aligned">
                 <h1>Student Registration</h1>
-                <br/><br/>
+                <br/><br/><br/>
         <form class="ui form">
             <div class="field">
                 <label>First Name</label>
