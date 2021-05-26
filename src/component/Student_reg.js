@@ -20,11 +20,11 @@ const Student_reg =() =>{
             </div>
             <div class="field">
                 <label>Email</label>
-                <input type="text" name="email" id="email" placeholder="Last Name" />
+                <input type="text" name="email" id="email" placeholder="Email" />
             </div>
             <div class="field">
                 <label>Phone Number</label>
-                <input type="text" name="phoneno" id="phoneno" placeholder="Last Name" />
+                <input type="text" name="phoneno" id="phoneno" placeholder="Phone Number" />
             </div>
         </form>
         </div>
