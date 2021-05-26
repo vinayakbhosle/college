@@ -18,6 +18,10 @@ const Student_reg =() =>{
                 <label>Last Name</label>
                 <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
             </div>
+            <div class="field">
+                <label>Email</label>
+                <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
+            </div>
         </form>
         </div>
         
