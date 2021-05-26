@@ -22,6 +22,10 @@ const Student_reg =() =>{
                 <label>Email</label>
                 <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
             </div>
+            <div class="field">
+                <label>Phone Number</label>
+                <input type="text" name="lastname" id="lastname" placeholder="Last Name" />
+            </div>
         </form>
         </div>
         
